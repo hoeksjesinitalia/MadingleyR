@@ -22,3 +22,5 @@ mdata = madingley_init(spatial_window = spatial_window,
                        stock_def = stck_def,
                        spatial_inputs = sptl_inp)
 ```
+
+The ```madingley_init()``` function will also attach the spatial_window variable to the returned output, making sure the following simulation run will use the same spatial window. 
