@@ -23,7 +23,9 @@ In addition to installing the MadingleyR dependencies (```rgdal```, ```sp```, ``
   * [Case study 2](./CASESTUDY2.md)
   * [Case study 3](./CASESTUDY3.md)
 * Function description
-  * [Package manual](./Manual.pdf)
+  * [Package manual(standard R package manual)](./Manual.pdf)
+* Compile source code
+  * [](./SourceCode/) 
 
 ## MadingleyR workflow
 
